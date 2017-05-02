@@ -15,7 +15,7 @@ import net.proteanit.sql.DbUtils;
 
 /**
  *
- * @author Vidya Venkappa
+ * @author Vishwas.S
  */
 public class front extends javax.swing.JFrame {
 

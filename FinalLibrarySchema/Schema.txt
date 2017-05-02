@@ -1,0 +1,16 @@
+Schema:
+
+Topic:ONLINE LIBRARY
+
+We have an users table which stores the details of the users like username,password extra.It has an unique key called
+ u_id which uniquely identifies the table
+We also have a books tables which has all the books in our library.Each book has an unique key
+We have magazine tables which has all the magazine  and has an unique key too
+We also have a cd-rom which has both audio and videos of different novel etc which also has an unique key
+We have jourals which can be read by the users
+We have blogs which can be written by differnt users they also can follow few blogs 
+We have rating table which stores the rating of all the books,magazine,journals,cd-roms etc
+We have users who are premium users who can access few special books which wont b accessed by the other users
+
+
+//Modify it and make it fancy 

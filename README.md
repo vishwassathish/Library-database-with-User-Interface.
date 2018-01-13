@@ -1,5 +1,5 @@
 # Library-database-with-User-Interface.
-Here is a library I and my friend created. It uses open source postgreSQL DBMS along with JDBC software to give a perfect user interface as a localhost. PHP can be used to host it on a globalhost network.
+Used open sourced postgreSQL DBMS along with JDBC software to give a perfect user interface as a localhost. PHP can be used to host it on a globalhost network.
 Use netbeans to open the 'library' file.
 In the code change 'url' to the location of your localhost. Change user and pass to whatever is your postgreSQL username and password.
 Now you can successfully connect to the database (files in FinalLibrarySchema folder).
